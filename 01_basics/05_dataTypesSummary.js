@@ -32,3 +32,12 @@ myFunction();
 
 console.log(typeof(bigNumer));
 console.log(typeof(myFunction));
+
+
+//++++++====================================================
+//memory in javascript
+
+
+//Stack(primitive) :-  return copy value 
+// Heap(non primitive ) :- return original value reference
+
